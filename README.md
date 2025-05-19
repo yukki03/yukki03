@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukki03&label=Profile%20views&color=0e75b6&style=flat" alt="AnshulMalik" /> </p>
 skills:
 
-- 🔭 I’m currently acquiring new skills in **Python for Data Analysis, Software Engineering, Streaming, C**
+- 🔭 I’m currently acquiring new skills in **JAVA, Software Engineering, Streaming, C**
 - 🌱 I’m currently learning Chinese and Japanese.
 - 💬 Ask me about **C#, Game Development, Translations, Web Development, courses that I'm doing right now**
 - 🤔 I’m looking for help with **networking and doing good presentations on social media to get my first job in IT**

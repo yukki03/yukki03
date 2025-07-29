@@ -8,7 +8,7 @@ skills:
 - 🌱 I’m currently learning Chinese and Japanese.
 - 💬 Ask me about **C#, Game Development, Translations, Web Development, courses that I'm doing right now**
 - 🤔 I’m looking for help with **networking and doing good presentations on social media to get my first job in IT**
-- ⚡ Fun fact: It's almost 2025 and I still am addicted to Genshin Impact. 
+- ⚡ Fun fact: I play Just Dance 2025 to do some exercise. 
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yukki03&count_private=true&show_icons=true&theme=radical" /> </p>
